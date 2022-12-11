@@ -25,7 +25,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://github.com/TomasGaAqBz/FEC-SocialProofSection)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://curious-stardust-1d9a35.netlify.app/)
 
 ### Built with
 
